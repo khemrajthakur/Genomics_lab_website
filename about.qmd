@@ -1,0 +1,315 @@
+---
+format: html
+embed-resources: true
+toc: true
+toc-depth: 2
+css: styles.css
+---
+
+<style>
+/* Updated styling to reduce heading spacing and standardize section dividers */
+h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.75rem;
+}
+
+h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.4rem;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Added text-align: justify to align text to both sides */
+.about-lab p {
+  text-align: justify;
+}
+
+.person-card {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+.person-card img {
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.person-card h3 {
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+}
+.person-card p {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin-top: 0.3rem;
+}
+
+/* Added text-align: justify for Dr. Khem Raj's description */
+.dr-khemraj p {
+  text-align: justify;
+}
+
+.publication {
+  margin-bottom: 0.8rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.news-item {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: baseline;
+}
+
+.news-item::before {
+  content: "•";
+  margin-right: 0.5rem;
+  color: #555;
+  font-weight: bold;
+}
+
+.section-divider {
+  margin: 1.5rem 0;
+  border-top: 1px solid #ddd;
+  clear: both;
+}
+/* Remove extra space before h2 that follows a section-divider */
+.section-divider + h2 {
+  margin-top: 1rem;
+}
+</style>
+
+<div class="about-lab">
+## About Our Lab
+
+Our research lab leads cutting-edge investigations in microbial genomics, transcriptomics, fungal pathogenesis, and the human microbiome. We focus on clinically significant pathogens like *Candida* spp. and mucormycosis-causing fungi, integrating wet lab (in vitro and in vivo) experimentation—including antifungal screening and nanoparticle synthesis, with robust in-house multi-omics data analysis.
+
+We explore antimicrobial resistance, host-pathogen interactions, and microbial pathogenesis using advanced tools in molecular biology and bioinformatics. The lab features a high-performance Linux-based genome analysis workstation running pipelines for genomics, transcriptomics, and metagenomics.
+
+Our team brings expertise in large-scale omics data analysis and visualization, using R and Python to decode complex biological systems and their relevance to human health.
+</div>
+
+<div class="section-divider"></div>
+
+::: {.person-card .dr-khemraj style="text-align: left;"}
+
+<img src="images/dr_khemraj.jpg" width="150" height="180" style="float: left; margin-right: 1rem;">
+
+<div>
+  <h3>Dr. Khem Raj</h3>
+  <p>Dr. Khem Raj is an expert in microbial genomics, transcriptomics, and fungal pathogenesis. His research focuses on microbial-host interactions and antimicrobial resistance, combining experimental biology with integrative omics approaches. He specializes in data-driven insights using R and Python to explore complex host-pathogen dynamics. Under his leadership, the lab bridges molecular microbiology and computational biology to drive translational research on emerging pathogens.</p>
+</div>
+
+<div style="clear: both;"></div>
+
+:::
+
+<div class="section-divider"></div>
+
+## Research Scholars
+
+:::: {.columns style="margin-bottom: 0;"}
+
+::: {.column width="33%"}
+<div class="person-card" style="padding: 10px; text-align: center;">
+<img src="images/preeti_negi.jpg" width="110" height="140" alt="Preeti Negi" style="margin-bottom: 10px;" />
+
+### Preeti Negi
+
+<p style="text-align: justify;">
+Research on green synthesis of silver nanoparticles using <em>Trillium govanianum</em> and their application in studying <em>Candida auris</em> pathogenesis. Combines principles of nanotechnology and computational docking to explore novel antifungal strategies.
+</p>
+</div>
+:::
+
+::: {.column width="33%"}
+<div class="person-card" style="padding: 10px; text-align: center;">
+<img src="images/kanika_multani.jpg" width="110" height="140" alt="Kanika Multani" style="margin-bottom: 10px;" />
+
+### Kanika Multani
+
+<p style="text-align: justify;">
+Genomic and transcriptomic analysis of mucormycosis using high-throughput sequencing and RNA-Seq workflows. Applies computational genomics to study fungal pathogens.
+</p>
+</div>
+:::
+
+::: {.column width="33%"}
+<div class="person-card" style="padding: 10px; text-align: center;">
+<img src="images/milani_sharma.jpg" width="110" height="140" alt="Milani Sharma" style="margin-bottom: 10px;" />
+
+### Milani Sharma
+
+<p style="text-align: justify;">
+Focuses on microbial community profiling and genomics to investigate the diversity, composition, and functional roles of microbiomes in host-microbe interactions.
+</p>
+</div>
+:::
+
+::::
+
+<div class="section-divider" style="margin-top: 0;"></div>
+
+## M.Sc. Students
+
+:::: {.columns style="margin-bottom: 0;"}
+
+::: {.column width="50%"}
+<div class="person-card">
+![](images/srishti_sharma.jpg){width="110" height="140"}
+
+### Srishti Sharma
+
+High-throughput sequencing data analysis of Mucormycosis, including RNA-Seq workflows and qPCR validation of immunological gene expression.
+</div>
+:::
+
+::: {.column width="50%"}
+<div class="person-card">
+![](images/ishika_saini.jpg){width="110" height="140"}
+
+### Ishika Saini
+
+Currently engaged in genomic research on *Candida auris*, focusing on clade-wise differences, virulence factors, and antimicrobial resistance genes.
+</div>
+:::
+
+::::
+
+<div class="section-divider" style="margin-top: 0;"></div>
+
+## Collaborators
+<div class="person-card" style="background-color: #f8f9fa;">
+  <h3>Dr. Manpreet Dhaliwal</h3>
+  <p style="text-align: center;">
+    <strong>Advanced Paediatric Centre</strong><br>
+    Postgraduate Institute of Medical Education and Research
+  </p>
+</div>
+<div class="person-card" style="background-color: #f8f9fa;">
+  <h3>Dr. Rakesh Yadav</h3>
+  <p style="text-align: center;">
+    <strong>Department of Medical Microbiology</strong><br>
+    Postgraduate Institute of Medical Education and Research
+  </p>
+</div>
+
+<div class="section-divider"></div>
+
+## Research Projects
+
+<h3>Ongoing Projects</h3>
+<ol>
+  <li>
+    <strong>To discover novel genetic variants predisposing to Inborn Errors of Immunity in pediatric and adult mucormycosis patients</strong><br>
+    <strong>Role:</strong> Co-Investigator<br>
+    <strong>Funding Agency:</strong> Indian Council of Medical Research (ICMR), New Delhi
+  </li>
+</ol>
+
+<h3>Completed Projects</h3>
+<ol>
+  <li>
+    <strong>Deciphering the microbiome landscape of native and migrated 'Pangwala' tribal population of India</strong><br>
+    <strong>Role:</strong> Principal Investigator<br>
+    <strong>Funding Agency:</strong> Department of Health Research, Govt. of India (File No. R.12020/13/2018-HR)
+  </li>
+  <li>
+    <strong>A transcriptome-based study to evaluate the pathways associated with immune dysfunction in COVID-19 Associated Mucormycosis</strong><br>
+    <strong>Role:</strong> Co-Investigator<br>
+    <strong>Funding Agency:</strong> Pfizer, Fungal Infections Study Forum (FISF)
+  </li>
+</ol>
+
+<div class="section-divider"></div>
+
+## Publications
+
+<div class="publication">
+1. Dhaliwal, M., et al. (2024). Immune and metabolic perturbations in COVID‐19‐associated pulmonary mucormycosis: A transcriptome analysis of innate immune cells. Mycoses, 67(1), e13679. <a href="https://doi.org/10.1111/myc.13679" target="_blank">DOI</a>
+</div>
+
+<div class="publication">
+2. Negi, P., et al. (2024). Antimicrobial and Antibiofilm Potential of Green-Synthesized Graphene–Silver Nanocomposite against Multidrug-Resistant Nosocomial Pathogens. Biomedicines, 12(5):1104. <a href="https://doi.org/10.3390/biomedicines12051104" target="_blank">DOI</a>
+</div>
+
+<div class="publication">
+3. Raj, K., et al. (2024). Decoding the role of oxidative stress resistance and alternative carbon substrate assimilation in the mature biofilm growth mode of Candida glabrata. BMC Microbiology, 24(1), 128. <a href="https://doi.org/10.1186/s12866-024-03274-9" target="_blank">DOI</a>
+</div>
+
+<div class="publication">
+4. Raj, K., et al. (2022). Possible Contribution of Alternative Transcript Isoforms in Mature Biofilm Growth Phase of Candida glabrata. Indian Journal of Microbiology, 62(4), 583-601. <a href="https://doi.org/10.1007/s12088-022-01036-7" target="_blank">DOI</a>
+</div>
+
+<div class="publication">
+5. Verma, N., et al. (2024). Anticandidal Efficacy of Green Synthesized Silver Nanoparticles Using Trans-Himalayan Plant Extracts Against Drug Resistant Clinical Isolates of Candida auris. Indian Journal of Microbiology, 64(4):1912-1928. <a href="https://doi.org/10.1007/s12088-024-01277-8" target="_blank">DOI</a>
+</div>
+
+<div class="publication">
+6. Patial, S., et al. (2024). Atherosclerosis: Progression, risk factors, diagnosis, treatment, probiotics and synbiotics as a new prophylactic hope. The Microbe, 5:100212. <a href="https://doi.org/10.1016/j.microb.2024.100212" target="_blank">DOI</a>
+</div>
+
+<div class="publication">
+7. Sharma, S., et al. (2023). Antimicrobial Studies on Garlic Lectin. Probiotics & Antimicrobial Proteins, 15(6):1501–1512. <a href="https://doi.org/10.1007/s12602-022-10001-1" target="_blank">DOI</a>
+</div>
+
+<div class="publication">
+8. Riyaz, M., Raj, K. (2023). Emerging Microbial Identification Technologies in the Era of OMICS and Genome Editing. In: Sobti RC, Kuhad RC, Lal R, Rishi P, eds. Role of Microbes in Sustainable Development: Human Health and Diseases. Springer Nature; pp. 37–63. <a href="https://doi.org/10.1007/978-981-99-3126-2_2" target="_blank">DOI</a>
+</div>
+
+<div class="publication">
+9. Kaur, U.J., et al. (2021). Potential of 1-(1-napthylmethyl)-piperazine, an efflux pump inhibitor against cadmium-induced multidrug resistance in Salmonella enterica serovar Typhi. Brazilian Journal of Microbiology, 52(3):1303–1313. <a href="https://doi.org/10.1007/s42770-021-00492-5" target="_blank">DOI</a>
+</div>
+
+<div class="publication">
+10. Sarkar, S., et al. (2017). Association of rheumatic fever & rheumatic heart disease with plausible early & late-stage disease markers. Indian Journal of Medical Research, 145(6):758. <a href="https://doi.org/10.4103/ijmr.IJMR_1554_14" target="_blank">DOI</a>
+</div>
+
+<div class="publication">
+11. Rishi, P., et al. (2020). Diet, Gut Microbiota and COVID-19. Indian Journal of Microbiology, 60(4):420–429. <a href="https://doi.org/10.1007/s12088-020-00908-0" target="_blank">DOI</a>
+</div>
+
+<div class="section-divider"></div>
+
+## News and Events
+
+<div class="news-item">
+Our lab presented research at the 15th National Biennial Conference of the Indian Society of Medical Mycologists, showcasing advancements in fungal disease diagnostics and therapeutics.
+</div>
+
+<div class="news-item">
+Graduate students secured the 2nd and 3rd prizes at the International Conference on Harnessing the Power of Microbes for Viksit Bharat, recognizing their innovative contributions to microbial research.
+</div>
+
+<div class="news-item">
+Lab members also presented their latest findings at the Computational Biology Conference 2025, highlighting the integration of bioinformatics tools in infectious disease studies.
+</div>
+
+<div class="news-item">
+Our lab has been awarded an ICMR research grant to advance investigations into mucormycosis, strengthening our efforts in combating this life-threatening fungal infection.
+</div>
+
+<div class="section-divider"></div>
+
+## Join Us
+
+Opportunities in microbiology, molecular biology and bioinformatics.
+
+Email: khemrajthakur@gmail.com  
+
+<div class="section-divider"></div>
+
+## Contact Us
+
+Department of Microbiology  
+Basic Medical Sciences Block I, South Campus  
+Panjab University, Sector-25, Chandigarh-160014, India
+
+Email: khemrajthakur@pu.ac.in  
+Mobile: +91 9876726053  
+[View on Google Maps](https://maps.google.com)
