@@ -217,7 +217,7 @@ Currently engaged in genomic research on *Candida auris*, focusing on clade-wise
 <h3>Ongoing Projects</h3>
 <ol>
   <li>
-    <strong>Whole Genome Sequencing of Mycobacterium leprae Clinical Strains for Determining Drug Resistance and Strain lineage in India: - A multicentre prospective study</strong><br>
+    <strong>Whole Genome Sequencing of *Mycobacterium leprae* Clinical Strains for Determining Drug Resistance and Strain lineage in India: - A multicentre prospective study</strong><br>
     <strong>Role:</strong> Co-Investigator<br>
     <strong>Funding Agency:</strong> ICMR <br>
     <strong>Funding Amount:</strong> INR 2.9 Crore
