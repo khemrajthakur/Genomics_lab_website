@@ -1,18 +1,19 @@
 ---
-format: html
-embed-resources: true
-toc: true
-toc-depth: 2
-css: styles.css
+format: 
+  html:
+    embed-resources: true
+    toc: true
+    toc-depth: 2
+    css: styles.css
 ---
-
-<style>
-/* Updated styling to reduce heading spacing and standardize section dividers */
-h2 {
-  margin-top: 1.5rem;
-  margin-bottom: 1rem;
-  font-size: 1.75rem;
-}
+  
+  <style>
+  /* Updated styling to reduce heading spacing and standardize section dividers */
+  h2 {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    font-size: 1.75rem;
+  }
 
 h3 {
   margin-top: 1rem;
@@ -26,9 +27,9 @@ p {
 }
 
 /* Added text-align: justify to align text to both sides */
-.about-lab p {
-  text-align: justify;
-}
+  .about-lab p {
+    text-align: justify;
+  }
 
 .person-card {
   text-align: center;
@@ -85,13 +86,15 @@ p {
 </style>
 
 <div class="about-lab">
+
 ## About Our Lab
 
-Our research lab leads cutting-edge investigations in microbial genomics, transcriptomics, fungal pathogenesis, and the human microbiome. We focus on clinically significant pathogens like *Candida* spp. and mucormycosis-causing fungi, integrating wet lab (in vitro and in vivo) experimentation—including antifungal screening and nanoparticle synthesis, with robust in-house multi-omics data analysis.
+Our research lab leads cutting-edge investigations in microbial genomics, transcriptomics, fungal pathogenesis, and the human microbiome. We focus on clinically significant pathogens like *Candida* spp. and mucormycosis-causing fungi, integrating wet lab (*in vitro* and *in vivo*) experimentation—including antifungal screening and nanoparticle synthesis, with robust in-house multi-omics data analysis.
 
 We explore antimicrobial resistance, host-pathogen interactions, and microbial pathogenesis using advanced tools in molecular biology and bioinformatics. The lab features a high-performance Linux-based genome analysis workstation running pipelines for genomics, transcriptomics, and metagenomics.
 
-Our team brings expertise in large-scale omics data analysis and visualization, using R and Python to decode complex biological systems and their relevance to human health.
+Our team brings expertise in large-scale omics data analysis and visualization, using R and Python to decode complex biological systems and their relevance to human health. This includes investigations into immune-mediated disorders such as Kawasaki disease, where integrative multi-omics profiling provides comprehensive insights into disease pathophysiology and host immune responses.
+
 </div>
 
 <div class="section-divider"></div>
@@ -113,44 +116,52 @@ Our team brings expertise in large-scale omics data analysis and visualization, 
 
 ## Research Scholars
 
-:::: {.columns style="margin-bottom: 0;"}
-
-::: {.column width="33%"}
-<div class="person-card" style="padding: 10px; text-align: center;">
-<img src="images/preeti_negi.jpg" width="110" height="140" alt="Preeti Negi" style="margin-bottom: 10px;" />
-
-### Preeti Negi
-
+:::: {.columns style="margin-bottom: 2rem;"}
+::: {.column width="50%"}
+<div class="person-card" style="padding: 15px; text-align: center;">
+<img src="images/preeti_negi.jpg" width="110" height="140" alt="Preeti Negi" style="margin-bottom: 5px; display: block; margin-left: auto; margin-right: auto;" />
+<div style="margin-bottom: 10px;">
+<h3>Preeti Negi</h3></div>
 <p style="text-align: justify;">
 Research on green synthesis of silver nanoparticles using <em>Trillium govanianum</em> and their application in studying <em>Candida auris</em> pathogenesis. Combines principles of nanotechnology and computational docking to explore novel antifungal strategies.
 </p>
 </div>
 :::
+::: {.column width="50%"}
 
-::: {.column width="33%"}
-<div class="person-card" style="padding: 10px; text-align: center;">
-<img src="images/kanika_multani.jpg" width="110" height="140" alt="Kanika Multani" style="margin-bottom: 10px;" />
+<div class="person-card" style="padding: 15px; text-align: center;">
+<img src="images/Gurkeerat_kaur.jpg" width="110" height="140" alt="Gurkeerat Kaur" style="margin-bottom: 5px; display: block; margin-left: auto; margin-right: auto;" />
+<div style="margin-bottom: 10px;">
 
-### Kanika Multani
-
+<h3>Gurkeerat Kaur</h3></div>
 <p style="text-align: justify;">
-Genomic and transcriptomic analysis of mucormycosis using high-throughput sequencing and RNA-Seq workflows. Applies computational genomics to study fungal pathogens.
+Conducted research on the antifungal and antibiofilm activities of green-synthesized silver-graphene nanohybrids against multidrug-resistant *Candida auris*, encompassing synthesis, characterization, and comprehensive biological evaluations.
 </p>
 </div>
 :::
+::::
 
-::: {.column width="33%"}
-<div class="person-card" style="padding: 10px; text-align: center;">
-<img src="images/milani_sharma.jpg" width="110" height="140" alt="Milani Sharma" style="margin-bottom: 10px;" />
-
-### Milani Sharma
-
+:::: {.columns style="margin-bottom: 2rem;"}
+::: {.column width="50%"}
+<div class="person-card" style="padding: 15px; text-align: center;">
+<img src="images/milani_sharma.jpg" width="110" height="140" alt="Milani Sharma" style="margin-bottom: 5px; display: block; margin-left: auto; margin-right: auto;" />
+<div style="margin-bottom: 10px;">
+<h3>Milani Sharma</h3></div>
 <p style="text-align: justify;">
 Focuses on microbial community profiling and genomics to investigate the diversity, composition, and functional roles of microbiomes in host-microbe interactions.
 </p>
 </div>
 :::
-
+::: {.column width="50%"}
+<div class="person-card" style="padding: 15px; text-align: center;">
+<img src="images/kanika_multani.jpg" width="110" height="140" alt="Kanika Multani" style="margin-bottom: 5px; display: block; margin-left: auto; margin-right: auto;" />
+<div style="margin-bottom: 10px;">
+<h3>Kanika Multani</h3></div>
+<p style="text-align: justify;">
+Genomic and transcriptomic analysis of mucormycosis using high-throughput sequencing and RNA-Seq workflows. Applies computational genomics to study fungal pathogens.
+</p>
+</div>
+:::
 ::::
 
 <div class="section-divider" style="margin-top: 0;"></div>
@@ -206,9 +217,16 @@ Currently engaged in genomic research on *Candida auris*, focusing on clade-wise
 <h3>Ongoing Projects</h3>
 <ol>
   <li>
+    <strong>Whole Genome Sequencing of Mycobacterium leprae Clinical Strains for Determining Drug Resistance and Strain lineage in India: - A multicentre prospective study</strong><br>
+    <strong>Role:</strong> Co-Investigator<br>
+    <strong>Funding Agency:</strong> ICMR <br>
+    <strong>Funding Amount:</strong> INR 2.9 Crore
+  </li>
+  <li>
     <strong>To discover novel genetic variants predisposing to Inborn Errors of Immunity in pediatric and adult mucormycosis patients</strong><br>
     <strong>Role:</strong> Co-Investigator<br>
-    <strong>Funding Agency:</strong> Indian Council of Medical Research (ICMR), New Delhi
+    <strong>Funding Agency:</strong> Indian Council of Medical Research (ICMR), New Delhi<br>
+    <strong>Funding Amount:</strong> INR 57.34 Lakhs
   </li>
 </ol>
 
@@ -217,12 +235,14 @@ Currently engaged in genomic research on *Candida auris*, focusing on clade-wise
   <li>
     <strong>Deciphering the microbiome landscape of native and migrated 'Pangwala' tribal population of India</strong><br>
     <strong>Role:</strong> Principal Investigator<br>
-    <strong>Funding Agency:</strong> Department of Health Research, Govt. of India (File No. R.12020/13/2018-HR)
+    <strong>Funding Agency:</strong> Department of Health Research, Govt. of India (File No. R.12020/13/2018-HR)<br>
+    <strong>Funding Amount:</strong> INR 28.26 lakhs
   </li>
   <li>
     <strong>A transcriptome-based study to evaluate the pathways associated with immune dysfunction in COVID-19 Associated Mucormycosis</strong><br>
     <strong>Role:</strong> Co-Investigator<br>
-    <strong>Funding Agency:</strong> Pfizer, Fungal Infections Study Forum (FISF)
+    <strong>Funding Agency:</strong> Pfizer, Fungal Infections Study Forum (FISF)<br>
+    <strong>Funding Amount:</strong> INR 17 lakhs
   </li>
 </ol>
 

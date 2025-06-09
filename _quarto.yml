@@ -6,11 +6,6 @@ website:
   title: "Microbial Genomics Lab"
   navbar:
     background: primary
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About Our Lab
 
 format:
   html:
