@@ -251,50 +251,47 @@ Currently engaged in genomic research on *Candida auris*, focusing on clade-wise
 ## Publications
 
 <div class="publication">
-1. Dhaliwal, M., et al. (2024). Immune and metabolic perturbations in COVID‐19‐associated pulmonary mucormycosis: A transcriptome analysis of innate immune cells. Mycoses, 67(1), e13679. <a href="https://doi.org/10.1111/myc.13679" target="_blank">DOI</a>
+1. Vijeata, A., et al. (2025). Engineering fungicidal nitrogen-doped carbon dots from *Trillium govanianum* rhizomes: A theoretical and experimental approach against Candida auris. Applied Surface Science, 709:163789. <a href="https://doi.org/10.1016/j.apsusc.2025.163789" target="_blank">DOI</a>
 </div>
-
 <div class="publication">
-2. Negi, P., et al. (2024). Antimicrobial and Antibiofilm Potential of Green-Synthesized Graphene–Silver Nanocomposite against Multidrug-Resistant Nosocomial Pathogens. Biomedicines, 12(5):1104. <a href="https://doi.org/10.3390/biomedicines12051104" target="_blank">DOI</a>
+2. Sihag, S., et al. (2025). Antimicrobial and Anticancer Potential of *Chitinophaga* sp. S167 Mediated Synthesis of Silver Nanoparticles. ChemistrySelect, 10(21):e00768. <a href="https://doi.org/10.1002/slct.202500768" target="_blank">DOI</a>
 </div>
-
 <div class="publication">
-3. Raj, K., et al. (2024). Decoding the role of oxidative stress resistance and alternative carbon substrate assimilation in the mature biofilm growth mode of Candida glabrata. BMC Microbiology, 24(1), 128. <a href="https://doi.org/10.1186/s12866-024-03274-9" target="_blank">DOI</a>
+3. Dhaliwal, M., et al. (2024). Immune and metabolic perturbations in COVID‐19‐associated pulmonary mucormycosis: A transcriptome analysis of innate immune cells. Mycoses, 67(1), e13679. <a href="https://doi.org/10.1111/myc.13679" target="_blank">DOI</a>
 </div>
-
 <div class="publication">
-4. Raj, K., et al. (2022). Possible Contribution of Alternative Transcript Isoforms in Mature Biofilm Growth Phase of Candida glabrata. Indian Journal of Microbiology, 62(4), 583-601. <a href="https://doi.org/10.1007/s12088-022-01036-7" target="_blank">DOI</a>
+4. Negi, P., et al. (2024). Antimicrobial and Antibiofilm Potential of Green-Synthesized Graphene–Silver Nanocomposite against Multidrug-Resistant Nosocomial Pathogens. Biomedicines, 12(5):1104. <a href="https://doi.org/10.3390/biomedicines12051104" target="_blank">DOI</a>
 </div>
-
 <div class="publication">
-5. Verma, N., et al. (2024). Anticandidal Efficacy of Green Synthesized Silver Nanoparticles Using Trans-Himalayan Plant Extracts Against Drug Resistant Clinical Isolates of Candida auris. Indian Journal of Microbiology, 64(4):1912-1928. <a href="https://doi.org/10.1007/s12088-024-01277-8" target="_blank">DOI</a>
+5. Raj, K., et al. (2024). Decoding the role of oxidative stress resistance and alternative carbon substrate assimilation in the mature biofilm growth mode of *Candida glabrata*. BMC Microbiology, 24(1), 128. <a href="https://doi.org/10.1186/s12866-024-03274-9" target="_blank">DOI</a>
 </div>
-
 <div class="publication">
-6. Patial, S., et al. (2024). Atherosclerosis: Progression, risk factors, diagnosis, treatment, probiotics and synbiotics as a new prophylactic hope. The Microbe, 5:100212. <a href="https://doi.org/10.1016/j.microb.2024.100212" target="_blank">DOI</a>
+6. Raj, K., et al. (2022). Possible Contribution of Alternative Transcript Isoforms in Mature Biofilm Growth Phase of *Candida glabrata*. Indian Journal of Microbiology, 62(4), 583-601. <a href="https://doi.org/10.1007/s12088-022-01036-7" target="_blank">DOI</a>
 </div>
-
 <div class="publication">
-7. Sharma, S., et al. (2023). Antimicrobial Studies on Garlic Lectin. Probiotics & Antimicrobial Proteins, 15(6):1501–1512. <a href="https://doi.org/10.1007/s12602-022-10001-1" target="_blank">DOI</a>
+7. Verma, N., et al. (2024). Anticandidal Efficacy of Green Synthesized Silver Nanoparticles Using Trans-Himalayan Plant Extracts Against Drug Resistant Clinical Isolates of *Candida auris*. Indian Journal of Microbiology, 64(4):1912-1928. <a href="https://doi.org/10.1007/s12088-024-01277-8" target="_blank">DOI</a>
 </div>
-
 <div class="publication">
-8. Riyaz, M., Raj, K. (2023). Emerging Microbial Identification Technologies in the Era of OMICS and Genome Editing. In: Sobti RC, Kuhad RC, Lal R, Rishi P, eds. Role of Microbes in Sustainable Development: Human Health and Diseases. Springer Nature; pp. 37–63. <a href="https://doi.org/10.1007/978-981-99-3126-2_2" target="_blank">DOI</a>
+8. Patial, S., et al. (2024). Atherosclerosis: Progression, risk factors, diagnosis, treatment, probiotics and synbiotics as a new prophylactic hope. The Microbe, 5:100212. <a href="https://doi.org/10.1016/j.microb.2024.100212" target="_blank">DOI</a>
 </div>
-
 <div class="publication">
-9. Kaur, U.J., et al. (2021). Potential of 1-(1-napthylmethyl)-piperazine, an efflux pump inhibitor against cadmium-induced multidrug resistance in Salmonella enterica serovar Typhi. Brazilian Journal of Microbiology, 52(3):1303–1313. <a href="https://doi.org/10.1007/s42770-021-00492-5" target="_blank">DOI</a>
+9. Sharma, S., et al. (2023). Antimicrobial Studies on Garlic Lectin. Probiotics & Antimicrobial Proteins, 15(6):1501–1512. <a href="https://doi.org/10.1007/s12602-022-10001-1" target="_blank">DOI</a>
 </div>
-
 <div class="publication">
-10. Sarkar, S., et al. (2017). Association of rheumatic fever & rheumatic heart disease with plausible early & late-stage disease markers. Indian Journal of Medical Research, 145(6):758. <a href="https://doi.org/10.4103/ijmr.IJMR_1554_14" target="_blank">DOI</a>
+10. Riyaz, M., Raj, K. (2023). Emerging Microbial Identification Technologies in the Era of OMICS and Genome Editing. In: Sobti RC, Kuhad RC, Lal R, Rishi P, eds. Role of Microbes in Sustainable Development: Human Health and Diseases. Springer Nature; pp. 37–63. <a href="https://doi.org/10.1007/978-981-99-3126-2_2" target="_blank">DOI</a>
 </div>
-
 <div class="publication">
-11. Rishi, P., et al. (2020). Diet, Gut Microbiota and COVID-19. Indian Journal of Microbiology, 60(4):420–429. <a href="https://doi.org/10.1007/s12088-020-00908-0" target="_blank">DOI</a>
+11. Kaur, U.J., et al. (2021). Potential of 1-(1-napthylmethyl)-piperazine, an efflux pump inhibitor against cadmium-induced multidrug resistance in *Salmonella enterica* serovar Typhi. Brazilian Journal of Microbiology, 52(3):1303–1313. <a href="https://doi.org/10.1007/s42770-021-00492-5" target="_blank">DOI</a>
 </div>
-
+<div class="publication">
+12. Sarkar, S., et al. (2017). Association of rheumatic fever & rheumatic heart disease with plausible early & late-stage disease markers. Indian Journal of Medical Research, 145(6):758. <a href="https://doi.org/10.4103/ijmr.IJMR_1554_14" target="_blank">DOI</a>
+</div>
+<div class="publication">
+13. Rishi, P., et al. (2020). Diet, Gut Microbiota and COVID-19. Indian Journal of Microbiology, 60(4):420–429. <a href="https://doi.org/10.1007/s12088-020-00908-0" target="_blank">DOI</a>
+</div>
 <div class="section-divider"></div>
+
+
 
 ## News and Events
 
