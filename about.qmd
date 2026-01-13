@@ -148,7 +148,7 @@ Conducted research on the antifungal and antibiofilm activities of green-synthes
 <div style="margin-bottom: 10px;">
 <h3>Milani Sharma</h3></div>
 <p style="text-align: justify;">
-Focuses on microbial community profiling and genomics to investigate the diversity, composition, and functional roles of microbiomes in host-microbe interactions.
+Microbiome–immune interactions in Kawasaki disease, with emphasis on understanding how microbial community alterations influence immune dysregulation and inflammation.
 </p>
 </div>
 :::
@@ -364,3 +364,4 @@ Panjab University, Sector-25, Chandigarh-160014, India
 Email: khemrajthakur@pu.ac.in  
 Mobile: +91 9876726053  
 [View on Google Maps](https://maps.google.com)
+
