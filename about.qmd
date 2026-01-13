@@ -172,21 +172,53 @@ Genomic and transcriptomic analysis of mucormycosis using high-throughput sequen
 
 ::: {.column width="50%"}
 <div class="person-card">
-![](images/srishti_sharma.jpg){width="110" height="140"}
+![](images/anshika.jpg){width="110" height="140"}
 
-### Srishti Sharma
+### Anshika Thakur
 
-High-throughput sequencing data analysis of Mucormycosis, including RNA-Seq workflows and qPCR validation of immunological gene expression.
+<p style="text-align: center;">
+Design and evaluation of antifungal peptides against *Candida tropicalis*, with emphasis on MIC determination, antifungal efficacy, and peptide–pathogen interactions.
+</p>
 </div>
 :::
 
 ::: {.column width="50%"}
 <div class="person-card">
-![](images/ishika_saini.jpg){width="110" height="140"}
+![](images/ojal.jpg){width="110" height="140"}
 
-### Ishika Saini
+### Ojal
 
-Currently engaged in genomic research on *Candida auris*, focusing on clade-wise differences, virulence factors, and antimicrobial resistance genes.
+<p style="text-align: center;">
+Engaged in research on antifungal peptides against *Candida auris*, involving computational screening, peptide characterization, and analysis of antifungal activity to address multidrug resistance.
+</p>
+</div>
+:::
+
+::::
+
+:::: {.columns style="margin-bottom: 0;"}
+
+::: {.column width="50%"}
+<div class="person-card">
+![](images/pratibha.jpeg){width="110" height="140"}
+
+### Pratibha Kaushik
+
+<p style="text-align: center;">
+Single-Cell Genomic and Transcriptomic Profiling of Pulmonary Mucormycosis: A Computational Analysis of Immune Dysregulation in BAL and Peripheral Blood.
+</p>
+</div>
+:::
+
+::: {.column width="50%"}
+<div class="person-card">
+![](images/aryan.jpeg){width="110" height="140"}
+
+### Aryan Bhan
+
+<p style="text-align: center;">
+Working on transcriptional changes in neutrophils during COVID-19 infection, with a strong focus on bulk RNA-Seq data analysis workflows and genomic workflows.
+</p>
 </div>
 :::
 
@@ -203,7 +235,7 @@ Currently engaged in genomic research on *Candida auris*, focusing on clade-wise
   </p>
 </div>
 <div class="person-card" style="background-color: #f8f9fa;">
-  <h3>Dr. Rakesh Yadav</h3>
+  <h3>Dr. Rakesh Kumar Pilania</h3>
   <p style="text-align: center;">
     <strong>Department of Medical Microbiology</strong><br>
     Postgraduate Institute of Medical Education and Research
@@ -251,49 +283,51 @@ Currently engaged in genomic research on *Candida auris*, focusing on clade-wise
 ## Publications
 
 <div class="publication">
-1. Vijeata, A., et al. (2025). Engineering fungicidal nitrogen-doped carbon dots from *Trillium govanianum* rhizomes: A theoretical and experimental approach against Candida auris. Applied Surface Science, 709:163789. <a href="https://doi.org/10.1016/j.apsusc.2025.163789" target="_blank">DOI</a>
+1. Dhaliwal, M., Muthu, V., Sharma, A., Raj, K., Rudramurthy, S. M., Agarwal, R., & Chakrabarti, A. (2024). Immune and metabolic perturbations in COVID‐19‐associated pulmonary mucormycosis: A transcriptome analysis of innate immune cells. <em>Mycoses</em>, 67(1), e13679. <a href="https://doi.org/10.1111/myc.13679" target="_blank">DOI</a>
 </div>
 <div class="publication">
-2. Sihag, S., et al. (2025). Antimicrobial and Anticancer Potential of *Chitinophaga* sp. S167 Mediated Synthesis of Silver Nanoparticles. ChemistrySelect, 10(21):e00768. <a href="https://doi.org/10.1002/slct.202500768" target="_blank">DOI</a>
+2. Kaur, U. J., Chopra, A., Preet, S., Raj, K., Kondepudi, K. K., Gupta, V., & Rishi, P. (2021). Potential of 1-(1-napthylmethyl)-piperazine, an efflux pump inhibitor against cadmium-induced multidrug resistance in <em>Salmonella enterica</em> serovar Typhi as an adjunct to antibiotics. <em>Brazilian Journal of Microbiology</em>, 52(3), 1303-1313. <a href="https://doi.org/10.1007/s42770-021-00492-5" target="_blank">DOI</a>
 </div>
 <div class="publication">
-3. Dhaliwal, M., et al. (2024). Immune and metabolic perturbations in COVID‐19‐associated pulmonary mucormycosis: A transcriptome analysis of innate immune cells. Mycoses, 67(1), e13679. <a href="https://doi.org/10.1111/myc.13679" target="_blank">DOI</a>
+3. Negi, P., Chadha, J., Harjai, K., Gondil, V. S., Kumari, S., & Raj, K. (2024). Antimicrobial and Antibiofilm Potential of Green-Synthesized Graphene–Silver Nanocomposite against Multidrug-Resistant Nosocomial Pathogens. <em>Biomedicines</em>, 12(5), 1104. <a href="https://doi.org/10.3390/biomedicines12051104" target="_blank">DOI</a>
 </div>
 <div class="publication">
-4. Negi, P., et al. (2024). Antimicrobial and Antibiofilm Potential of Green-Synthesized Graphene–Silver Nanocomposite against Multidrug-Resistant Nosocomial Pathogens. Biomedicines, 12(5):1104. <a href="https://doi.org/10.3390/biomedicines12051104" target="_blank">DOI</a>
+4. Patial, S., Sharma, A., Raj, K., & Shukla, G. (2024). Atherosclerosis: Progression, risk factors, diagnosis, treatment, probiotics and synbiotics as a new prophylactic hope. <em>The Microbe</em>, 5, 100212. <a href="https://doi.org/10.1016/j.microb.2024.100212" target="_blank">DOI</a>
 </div>
 <div class="publication">
-5. Raj, K., et al. (2024). Decoding the role of oxidative stress resistance and alternative carbon substrate assimilation in the mature biofilm growth mode of *Candida glabrata*. BMC Microbiology, 24(1), 128. <a href="https://doi.org/10.1186/s12866-024-03274-9" target="_blank">DOI</a>
+5. Raj, K., Paul, D., Rishi, P., Shukla, G., Dhotre, D., & YogeshSouche. (2024). Decoding the role of oxidative stress resistance and alternative carbon substrate assimilation in the mature biofilm growth mode of <em>Candida glabrata</em>. <em>BMC Microbiology</em>, 24(1), 128. <a href="https://doi.org/10.1186/s12866-024-03274-9" target="_blank">DOI</a>
 </div>
 <div class="publication">
-6. Raj, K., et al. (2022). Possible Contribution of Alternative Transcript Isoforms in Mature Biofilm Growth Phase of *Candida glabrata*. Indian Journal of Microbiology, 62(4), 583-601. <a href="https://doi.org/10.1007/s12088-022-01036-7" target="_blank">DOI</a>
+6. Raj, K., Rishi, P., Shukla, G., Rudramurhty, S. M., Mongad, D. S., & Kaur, A. (2022). Possible Contribution of Alternative Transcript Isoforms in Mature Biofilm Growth Phase of <em>Candida glabrata</em>. <em>Indian Journal of Microbiology</em>, 62(4), 583-601. <a href="https://doi.org/10.1007/s12088-022-01036-7" target="_blank">DOI</a>
 </div>
 <div class="publication">
-7. Verma, N., et al. (2024). Anticandidal Efficacy of Green Synthesized Silver Nanoparticles Using Trans-Himalayan Plant Extracts Against Drug Resistant Clinical Isolates of *Candida auris*. Indian Journal of Microbiology, 64(4):1912-1928. <a href="https://doi.org/10.1007/s12088-024-01277-8" target="_blank">DOI</a>
+7. Rishi, P., Thakur, K., Vij, S., Rishi, L., Singh, A., Kaur, I. P., Patel, S. K. S., Lee, J. K., & Kalia, V. C. (2020). Diet, Gut Microbiota and COVID-19. <em>Indian Journal of Microbiology</em>, 60(4), 420-429. <a href="https://doi.org/10.1007/s12088-020-00908-0" target="_blank">DOI</a>
 </div>
 <div class="publication">
-8. Patial, S., et al. (2024). Atherosclerosis: Progression, risk factors, diagnosis, treatment, probiotics and synbiotics as a new prophylactic hope. The Microbe, 5:100212. <a href="https://doi.org/10.1016/j.microb.2024.100212" target="_blank">DOI</a>
+8. Riyaz, M., & Raj, K. (2023). Emerging Microbial Identification Technologies in the Era of OMICS and Genome Editing. In R. C. Sobti, R. C. Kuhad, R. Lal, & P. Rishi (Eds.), <em>Role of Microbes in Sustainable Development: Human Health and Diseases</em> (pp. 37-63). Springer Nature. <a href="https://doi.org/10.1007/978-981-99-3126-2_2" target="_blank">DOI</a>
 </div>
 <div class="publication">
-9. Sharma, S., et al. (2023). Antimicrobial Studies on Garlic Lectin. Probiotics & Antimicrobial Proteins, 15(6):1501–1512. <a href="https://doi.org/10.1007/s12602-022-10001-1" target="_blank">DOI</a>
+9. Sarkar, S., Rastogi, M., Chaudhary, P., Kumar, R., Arora, P., Sagar, V., Sahni, I. S., Shethi, S., Thakur, K., Ailawadhi, S., Toor, D., & Chakraborti, A. (2017). Association of rheumatic fever & rheumatic heart disease with plausible early & late-stage disease markers. <em>Indian Journal of Medical Research</em>, 145(6), 758-766. <a href="https://doi.org/10.4103/ijmr.IJMR_1554_14" target="_blank">DOI</a>
 </div>
 <div class="publication">
-10. Riyaz, M., Raj, K. (2023). Emerging Microbial Identification Technologies in the Era of OMICS and Genome Editing. In: Sobti RC, Kuhad RC, Lal R, Rishi P, eds. Role of Microbes in Sustainable Development: Human Health and Diseases. Springer Nature; pp. 37–63. <a href="https://doi.org/10.1007/978-981-99-3126-2_2" target="_blank">DOI</a>
+10. Sharma, S., Raj, K., Riyaz, M., & Singh, D. D. (2023). Antimicrobial Studies on Garlic Lectin. <em>Probiotics & Antimicrobial Proteins</em>, 15(6), 1501-1512. <a href="https://doi.org/10.1007/s12602-022-10001-1" target="_blank">DOI</a>
 </div>
 <div class="publication">
-11. Kaur, U.J., et al. (2021). Potential of 1-(1-napthylmethyl)-piperazine, an efflux pump inhibitor against cadmium-induced multidrug resistance in *Salmonella enterica* serovar Typhi. Brazilian Journal of Microbiology, 52(3):1303–1313. <a href="https://doi.org/10.1007/s42770-021-00492-5" target="_blank">DOI</a>
+11. Sihag, S., Kaur, G., Sharma, S., Dasgupta, A., Raj, K., & Kaur, R. (2025). Antimicrobial and Anticancer Potential of <em>Chitinophaga</em> sp. S167 Mediated Synthesis of Silver Nanoparticles. <em>ChemistrySelect</em>, 10(21), e00768. <a href="https://doi.org/10.1002/slct.202500768" target="_blank">DOI</a>
 </div>
 <div class="publication">
-12. Sarkar, S., et al. (2017). Association of rheumatic fever & rheumatic heart disease with plausible early & late-stage disease markers. Indian Journal of Medical Research, 145(6):758. <a href="https://doi.org/10.4103/ijmr.IJMR_1554_14" target="_blank">DOI</a>
+12. Verma, N., Riyaz, M., Kaur, G., Negi, P., Ghawri, H., & Raj, K. (2024). Anticandidal Efficacy of Green Synthesized Silver Nanoparticles Using Trans-Himalayan Plant Extracts Against Drug Resistant Clinical Isolates of <em>Candida auris</em>. <em>Indian Journal of Microbiology</em>, 64(4), 1912-1928. <a href="https://doi.org/10.1007/s12088-024-01277-8" target="_blank">DOI</a>
 </div>
 <div class="publication">
-13. Rishi, P., et al. (2020). Diet, Gut Microbiota and COVID-19. Indian Journal of Microbiology, 60(4):420–429. <a href="https://doi.org/10.1007/s12088-020-00908-0" target="_blank">DOI</a>
+13. Vijeata, A., Ghawri, H., Chaudhary, G. R., Raj, K., & Chaudhary, S. (2025). Engineering fungicidal nitrogen-doped carbon dots from <em>Trillium govanianum</em> rhizomes: A theoretical and experimental approach against <em>Candida auris</em>. <em>Applied Surface Science</em>, 709, 163789. <a href="https://doi.org/10.1016/j.apsusc.2025.163789" target="_blank">DOI</a>
 </div>
 <div class="section-divider"></div>
 
-
-
 ## News and Events
+
+<div class="news-item">
+Travel award by ISHAM (International Society for Human and Animal Mycology) to present research work at ISMM, Chennai, 2025.
+</div>
 
 <div class="news-item">
 Our lab presented research at the 15th National Biennial Conference of the Indian Society of Medical Mycologists, showcasing advancements in fungal disease diagnostics and therapeutics.
